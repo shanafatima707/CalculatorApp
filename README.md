@@ -1,32 +1,20 @@
-# CalculatorApp (Java)
+# CalculatorApp
 
-A modular, scalable calculator built in Java following industry best practices.
+**Author:** Shana Fatima  
+**Date:** 28-09-2025  
+
+## Description
+CalculatorApp is a modular and scalable Java calculator that supports basic arithmetic and advanced operations. This project demonstrates clean coding, exception handling, input validation, and a menu-driven interface – making it suitable as a professional portfolio project.
 
 ## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division (with error handling)
-
-## Tech Stack
-- Java 21 LTS
-- VS Code (Extension Pack for Java)
-- Git & GitHub
+- Addition, Subtraction, Multiplication
+- Division and Modulus with exception handling for zero
+- Power and Square Root operations
+- Menu-driven interface for user-friendly operation selection
+- Input validation to prevent invalid entries
+- Formatted output for readability
 
 ## How to Run
-1. Clone repository:
-   git clone https://github.com/<your-username>/CalculatorApp.git
-2. Navigate:
-   cd CalculatorApp/src
-3. Compile:
-   javac Calculator.java
-4. Run:
-   java Calculator
-
-## Future Enhancements
-- Add modulus, power, square root
-- Menu-driven interface
-- Convert into REST API
-
-## Author
-- Your Name
+1. Clone the repository:
+```bash
+git clone https://github.com/shanafatima707/CalculatorApp.git
